@@ -40,7 +40,7 @@ const Projects = () => {
                 <p className='py-2  mx-8 mt-8 text-base'> Working on a fullstack application based in React.js to handle patient requests using medicalAI APIs to serve rural communiites to reduce emergent cases in these localized areas.</p>
             
                 </div>
-                <button className='bg-[#00df9a] text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'> <a href = 'https://github.com/arjuns05/ReactWeather' target="_blank" rel="noopener noreferrer">Github Repository </a></button>
+                <button className='bg-[#00df9a] text-black w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'> <a href = 'https://github.com/arjuns05/HealthAI' target="_blank" rel="noopener noreferrer">Github Repository </a></button>
 
 
        </div>
