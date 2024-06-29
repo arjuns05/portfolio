@@ -5,7 +5,7 @@ import  tech from "../assets/tech.jpeg"
 
 const About = () => {
     return(
-        <div className='w-ful py-16 px-4'> 
+        <div id = "about" className='w-ful py-16 px-4'> 
             <div className='max-w-[1240 px] mx-auto grid md:grid-cols-2'> 
             <img src = {tech}></img>
                 <div id = "experience" className='flex flex-col justify-center'> 

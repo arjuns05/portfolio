@@ -51,7 +51,7 @@ function Timeline(defaultColor){
                 <div className = "flex flex-wrap mb-6 justify-center"> {element.tech.map((tech, index) => {
                     return <span className = "bg-gray-900 rounded-xl px-2 py-1 text-sm m-1" key = {index}>  {tech} </span>
                 })} </div>
-                <a className = {`bg-[#00df9a] text-gray-950 font-medium px-4 py-1 rounded-md mx-auto cursor-pointer hover:text-white`}> {element.buttonText} </a>
+                <a href = "https://www.linkedin.com/in/arjun-sudhalkar-a569b5221" rel="noreferrer" target="_blank" className = {`bg-[#00df9a] text-gray-950 font-medium px-4 py-1 rounded-md mx-auto cursor-pointer hover:text-white`}> {element.buttonText} </a>
 
             </div>
             
