@@ -12,7 +12,7 @@ function Timeline(defaultColor){
         <br>
         
         </br>
-        <p className = "text-5xl"> 
+        <p className = "text-4xl"> 
             Experience
         </p>
         <br>
